@@ -125,9 +125,20 @@ Color Theme:
 
 ## 📸 Screenshots
 
-Add screenshots of your game here.
+### 🎮 Game Introduction
+![Game Introduction](Neon-Ascent_Introduction.png)
 
-Example:
+### 🚀 Boot Screen
+![Boot Screen](Boot_image.png)
+
+### 🎯 Game Initialization / Gameplay Start
+![Game Initialization](Initialization_gameplay.png)
+
+### 🧠 Game Board
+![Game Board](GameBoard.png)
+
+### 📜 Game Directives / Rules
+![Game Directives](Game_Directives.png)
 
 
 
